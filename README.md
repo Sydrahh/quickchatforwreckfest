@@ -1,0 +1,1 @@
+Numpad keys are used by default, but you can change them if you don't have those. If you're in a race, just click one of the keys (0-9, Num Block must be on). And if you're in the menu, click on the chat and them 
